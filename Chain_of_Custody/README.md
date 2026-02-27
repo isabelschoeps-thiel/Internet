@@ -4,9 +4,6 @@
 ---
 
 ### Zusammenfassung
-
-Buch wurde, 
-
 Mit dieser Veröffentlichung dokumentiere ich, **Frau Isabel Schöps, geborene Thiel,** abschließend und vollumfänglich die Chain of Custody hinter meiner forensisch-wissenschaftlichen Arbeit.  
 
 `Die bereitgestellten Workflows, Metadatenanalysen und Datensätze bilden die` **lückenlose Beweiskette** für alle zentralen Ereignisse, Technologischen Entwicklungen, Meilensteine und Angriffe, die mein Leben, meine Urheberschaft, meine Identität und meine digitale Existenz betreffen. 
@@ -95,15 +92,16 @@ Es stehen zusätzliche, strukturierte Daten, Analysen, Workflow-Grafiken und wei
 Autorin und Urheberin  
 SIA Security Intelligence Artefact  
 INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
-[ORCID: 0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231)  
-[ORCID: 0009-0006-8765-3267](https://orcid.org/0009-0006-8765-3267)  
-Webergasse 34, 99084 Erfurt, Deutschland  
-Datum der Veröffentlichung: 12.02.2026
+[ORCID: Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)  
+[ORCID: SI-IST Isabel Schöps Thiel](https://orcid.org/0009-0006-8765-3267)  
+1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen Deutschland  
+
+**Datum der Veröffentlichung:** Freitag, den 27.02.2026`
 
 ---
 
-#### Empfohlene Social-Media-Begleitzeile
+#### kommender Social-Media-Begleitzeile
 
-> Die lückenlose Beweiskette einer Frau – Chain of Custody.  
-> Jetzt offiziell veröffentlicht. Jede*r kann sich selbst ein Bild machen.  
+>Die lückenlose Beweiskette einer Frau – Chain of Custody.  
+>Jetzt offiziell veröffentlicht. Jede*r kann sich selbst ein Bild machen.  
 > [10.5281/zenodo.18620368](https://doi.org/10.5281/zenodo.18620368)
