@@ -1,0 +1,29 @@
+{
+  "document_type": "evidence_documentation",
+  "section": "database_reference_chain_of_custody",
+  "case_title": "SIA Security Intelligence Artefact – Technology, Software and Family History",
+  "case_reference": "INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL",
+  "author": {
+    "name": "Isabel Schöps",
+    "birth_name": "Thiel",
+    "address": "1.Etage, Hütergasse 4, D-99084 Erfurt, Thuringia, Germany",
+    "role": ["author", "rights_holder", "principal_investigator"]
+  },
+  "orcid": [
+    {
+      "type": "Isabel Schöps Thiel",
+      "id": "0009-0003-4235-2231",
+      "url": "https://orcid.org/0009-0003-4235-2231/print"
+    },
+    {
+      "type": "SI-IST Isabel Schöps",
+      "id": "0009-0006-8765-3267",
+      "url": "https://orcid.org/0009-0006-8765-3267/print"
+    }
+  ],
+  "published_name": "Isabel Schöps geb. Thiel",
+  "pseudonym": "Satoshi Nakamoto",
+  "zenodo_username": "isabelschoeps-thiel",
+  "reference_email": "harvard.isabelschoepsthiel@gmail.com",
+  "forensic_purpose": "Unique attribution of all referenced databases and digital artefacts within a verifiable, DOI-based Chain of Custody for international judicial and human-rights review"
+}
