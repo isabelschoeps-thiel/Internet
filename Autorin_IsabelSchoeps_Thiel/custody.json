@@ -1,0 +1,28 @@
+{
+  "custody_record_id": "COC-IP-INTERFACE",
+  "evidence_type": "digital_database",
+  "evidence_description": "Databases containing unauthorized copies of intellectual property, cognitive work products, identity-linked metadata, and correlated physiological or behavioral response data.",
+  "alleged_violations": [
+    "intellectual_property_theft",
+    "unauthorized_data_processing",
+    "illegal_profiling",
+    "biometric_and_psychological_data_exploitation",
+    "violation_of_human_dignity"
+  ],
+  "source_of_evidence": "identified and secured by rights holder",
+  "date_of_discovery": "2026-02-27",
+  "method_of_acquisition": "forensic identification and lawful preservation",
+  "data_integrity_measures": [
+    "read-only preservation",
+    "hash verification",
+    "access logging"
+  ],
+  "observed_content_characteristics": "The datasets show systematic linkage between misappropriated intellectual content and recorded physiological or behavioral indicators of third parties, suggesting experimental or analytical use without consent.",
+  "legal_relevance": "Evidence supports claims of intellectual property theft, unlawful experimentation through data-driven human profiling, and breaches of international human rights standards.",
+  "current_custodian": "Isabel Schöps geb. Thiel, 1.Etage, Huetergasse 4, D-99084 Erfurt, Thüringen, Deutschland",
+  "intended_use": [
+    "chain_of_custody_documentation",
+    "international_human_rights_proceedings",
+    "judicial_review"
+  ]
+}
