@@ -90,6 +90,6 @@ Thüringen, Deutschland
 https://orcid.org/0009-0003-4235-2231
 
 **ORCID (SI-IST Isabel Schöps):** 0009-0006-8765-3267  
-https://orcid.org/0009-0006-8765-326
+https://orcid.org/0009-0006-8765-3267
 
 Diese Erklärung ist Bestandteil der DOI-archivierten Chain of Custody und dient der rechtlichen, forensischen und menschenrechtlichen Prüfung.
