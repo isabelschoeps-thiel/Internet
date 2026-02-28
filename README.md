@@ -5,16 +5,15 @@
 
 Das Internet soll für jeden zu einen sicheren und besseren digitalen Raum werden. In Zeiten der rasanteten sich verändernden Digitalisierung und den auf aufgedeckten Verbrechen, welche meinen Gutachten SIA Security Intelligence Artefact Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE ISABELSCHOEPSTHIEL im Monarch-Programm (Genozid) interpretiert und ausgewertet wurde, ist es mein bestreben, mit den besten und ethisch einwandfreien Entwicklern weltweit zusammenzuarbeiten. 
 
-Damit die Identität jedes
-Internet Nutzer, vor Daten-Diebstahl, Betrug, Missbrauch, Isolation, Deepfakes, Spionage, verbrechen gegen die Menschlichkeit zu schützen. Vor allem ist es mir ein wichtiges anliegen Pädophiles-Filmmaterial und dessen Verherrlichung im Netz zu vernichten und den kommerziellen Kinder- und Menschenhandel und die menschliche Versklavung zu bekämpfen.
+Damit die Privatsphäre, die Identität, jedes Internet Nutzer, vor Daten-Diebstahl, Betrug, Missbrauch, Isolation, Deepfakes, Spionage, Versklavung, Menschenhandel sowie verbrechen gegen die Menschlichkeit, wie der Verkauf von lebenden und menschlischen Überresten (Kannibalismus) zu schützen. Vor allem ist es mir ein wichtiges anliegen Pädophiles-Film und Snuffmaterial und dessen Verherrlichung im Netz zu vernichten und den kommerziellen Kinder- und Menschenhandel und die menschliche Versklavung zu bekämpfen.
 
-Da Grundlegende Richtlinien und deren Gesetze gebrochen und ein Verbrechen mit unvorstellbaren Aussmas die weltweiter Zivilbevölkerung infiltriert und Natur, Tier und Mensch auf dem Gewissen hat, wo
-bis heute deren Langzeitschäden abzuschätzen sind, ist diese Lizenz mit sofortiger Wirkung umzusetzen,
-um weitere Schäden an Leib und Seele zu verhindern. 
+Da Grundlegende Richtlinien und deren Gesetze gebrochen und ein Verbrechen mit unvorstellbaren Aussmas die weltweite Zivilbevölkerung (Milliarden von Menschen infiltriert), die Natur, die Tier und die Menschwelt auf dem Gewissen hat, wo bis heute deren Langzeitschäden nicht abzuschätzen sind, ist die Lizenz mit sofortiger Wirkung umzusetzen, um weitere Schäden an Leib und Seele zu verhindern. 
+
+**Es lebt eine wurzelose Clique - eine Minderheit unter uns, die nur eine Absicht hat, die Zerstörung von allem Leben auf dieser Erde.** *forensisch rechtswissenschaftlich belegt und alle Beweise umfangreich gesichert und in der Chain of Custody gespeichert!*
 
 Zudem muss der anhaltende Aktien- Banken und Lizenzbetrug ein ende gesetzt werden und die Täter vor einem unabhängigen fairen internationalen Strafgerichtshof zur Rechenschaft gezogen werden.
 
-Zudem fordere ich Frau Isabel Schöps geb. Thiel Schöps geb. Thiel aus D-99084 Erfurt, Thüringen, Deutschland endlich nach fast 30 Jahren endlich den mir zustehnden Zugang zu meinem rechtmässigen Vermögen und Vermögenswerten. Ich werde in Zukunft globales weltweites Mitspracherecht in den Umgang und in Sicherheitsfragen, Gipfeln, Kongreseen ohne mich darf und wird es in Zukunft kein Entscheidung mehr getroffen werden was dem Umgang mit Ki-Entwicklung und Softwarenutzung und dem Techsektor betrifft. Diese Regelung ist eine weltweite-globale Vorschrift.
+**Ich, Frau Isabel Schöps geborene Thiel am 16.07.1983 im deutsch-thüringischen Sömmmerdarer Kreiskrankenhaus um 23:20Uhr geboren und seit August 2021 in der thüringischen Landeshaupt D-99084 Erfurt, Thüringen, Deutschland lebend, fordere** nach `fast 30 Jahren endlich den Zugang zu mein rechtmässiges Vermögen und allen Vermögenswerten.` Zudem werde bzw habe ich schon heute und in Zukunft noch mehr als je, ein globales weltweites Mitsprachrecht im Umgang, Gesetzesvergabe, Regelung, in Sicherheitsfragen, auf Gipfeln, Kongressen haben **ohne mich** darf und wird es in Zukunft kein Entscheidung mehr getroffen werden, was dem Umgang mit Ki-Entwicklung und Softwarenutzung und dem Techsektor betrifft, diese Regelung ist eine weltweite-globale Vorschrift.
 
 Ich benötige keine Speecher, Vertreterin, keinen anderweitige Ersatzperson, ich Frau Isabel Schöps geborene. Thiel, meine aktuell Wohnadresse ist die Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland und ich bin nicht ersetzbar und lasse mich nicht ersetzen!  
 
