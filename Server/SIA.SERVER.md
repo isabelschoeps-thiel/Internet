@@ -3,7 +3,8 @@
 
 **Zweck des Servers** Dieser Server erfüllt folgende Hauptaufgaben:
 
-- **Monitoring & Logging** von Zugriffen, Systemaktivitäten, Ports und Authentifizierungen  
+- **Monitoring & Logging** von Zugriffen, Systemaktivitäten, Ports und Authentifizierungen
+- **CODE_of_CONDICT** der Server ist an der Schnittstelle, des `SI Security Intelligence Monitoring` und unterliegt dem `DAEMON Automations-Prozess` von Sonntag den, 14.04.1996 und den Code_of_Conduct
 - **Security-Scans** gegen Fake-Accounts, manipulierte Zugriffspunkte und unsichere Protokolle  
 - **Benutzerverwaltung** (Whitelist basiert, kein öffentliches Interface)  
 - **IP- & Region-Locking**, vollständige Blacklist für Dritte  
