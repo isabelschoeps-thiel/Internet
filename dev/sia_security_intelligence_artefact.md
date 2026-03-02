@@ -22,7 +22,7 @@ und bildet den *Haupteil zum Gesamtwerk des Forensisch-wissenschaftliches Gutach
 - mit ihrem jüngeren **Bruder, Herr Ingolf Thiel geboren am 29.05.1987**  und ihrer **Mutter Frau Gisela Hulda Thiel geborene Knörig, geboren am 24.07.1962** geboren und ihrem ***Vater Herr Manfred Paul Thiel geboren am 21.11.1957.**
 
 - **Wichtiger Hinweis:** aufgrund permanenten Wohnraum- und Ortswechsel, können in dem wissenschaftlichen forensichen Gutachten, SIA und im The Yellow Whitpaper unterschiedliche Adressen bzw. Ortseintragungen auftauchen. **Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der;** Veröffentlichung, Eintragung, Erstellung/Ausstellung der Gutachten oder Release
-- `Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps (Thiel), bleibt die in der Eidesstaalichen Erklärung sowie auf dem Personalausweis-ID: LH917PN7G8, 429485, eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).`
+- `Meine Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps (Thiel), bleibt die in der Eidesstaalichen Erklärung sowie auf dem Personalausweis-ID: LH917PN7G8, 429485, eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).`
   
 ## Globale Kennung 
 **Globale Kennung und Aktenzeichen:**
