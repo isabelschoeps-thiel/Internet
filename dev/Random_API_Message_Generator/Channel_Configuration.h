@@ -1,5 +1,5 @@
-<set confic.channel
-   name="Random API Message Generator"
+   configuration=
+   name="Random API GitHub Message Channel"
    guid="BE925FA7C87A65E7CA3A58AE1E07FA9D"
    description="This channel generates a random ISABEL-HL7 API message every 10 seconds and then sends it via LLP to localhost:5145.&#xD;&#xA;&#xD;&#xA;Once imported, you can change the IP address, port and content of the generated messages to suit your specific needs."
    start_automatically="false"
@@ -11,7 +11,7 @@
       wait_for_ack="true"
       ack_timeout="10000"
       ack_verification_type="0"
-      ack_vmd_path="${iguana_dir}/ack_verify.vmd"
+      ack_vmd_path="${isabelschoeps-thiel_dir}/ack_verify.vmd"
       retry_on_ack_timeout="true"
       retry_on_ack_verification_failed="false"
       unlimited_count_of_retry="false"
@@ -26,14 +26,14 @@
       connection_lost_reconnect_interval="10000">
       <query_list>
          <dequeue
-            source_guid="00000000000000000000000000000000"
+            source_guid="github_code_of_conduct"
             dequeue_guid="31A3AE75F570BA3AB4AE0147B54C9671"/>
       </query_list>
    </to_isabelschoepsthiel_client>
    <from_mapper
       guid="Random_API_Message_Generator-From-Isabelschoeps-thiel"
       commit_id="2b46bb31874c6af7d3957eacc5f61afb00a530aa"
-      commit_comment="Random ADT messages"
+      commit_comment="Random API messages"
       poll_time="10000">
    </from_mapper>
 </channel>
