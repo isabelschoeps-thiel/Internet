@@ -1,4 +1,6 @@
-rtf/json/php/java/Markdown/yaml/.com/rtf/ansi/dev/html/de 
+<?rtf
+set rtf
+/json/php/java/Markdown/yaml/.com/rtf/ansi/dev/html/de 
 fonts: all fontshelvetica;
 /color; red/green/blue;/blackgreen/blue
 github.com/server
