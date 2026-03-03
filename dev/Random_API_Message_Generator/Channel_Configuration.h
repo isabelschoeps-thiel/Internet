@@ -1,10 +1,10 @@
-   configuration=
-   name="Random API GitHub Message Channel"
+   configuration="Random_API_Channel"
+   name="Random API GitHub Channel by @isabelschoeps-thiel"
    guid="BE925FA7C87A65E7CA3A58AE1E07FA9D"
-   description="This channel generates a random ISABEL-HL7 API message every 10 seconds and then sends it via LLP to localhost:5145.&#xD;&#xA;&#xD;&#xA;Once imported, you can change the IP address, port and content of the generated messages to suit your specific needs."
+   description=This channel generates a random ISABEL-HL7 API message every 10 seconds and then sends it via LLP to localhost:5145.&#xD;&#xA;&#xD;&#xA;Once imported, you can change the IP address, port and content of the generated messages to suit your specific needs."
    start_automatically="false"
-   logging_level="1"
-   use_message_filter="false">
+   logging_level='1'
+   use_message_filter=false'
    <to isabelschoeps-thiel 
       local_host="localhost"
       port="5145"
