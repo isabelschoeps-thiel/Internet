@@ -1,0 +1,13 @@
+require imports a server module into the repository (README.md Manager on left
+require 'node'
+require 'set' 'run' 'workflow'
+
+- This is a very rough example showing how we can generate random ISABEL-HL7
+- data get the, write, server.  
+      
+function master(), main()
+   - Push the ADT message through to destination
+   - Press 'RandomMessage' on right to navigate
+   - env code
+   query.merge readme=set.RandomMessage()
+end
