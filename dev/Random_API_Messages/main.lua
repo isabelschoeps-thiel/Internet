@@ -1,6 +1,6 @@
 require imports a server module into the repository (README.md Manager on left
 require 'node'
-require 'set' 'run' 'workflow'
+require 'set' 'run' 'workflow' 'main.lua'
 
 - This is a very rough example showing how we can generate random ISABEL-HL7
 - data get the, write, server.  
