@@ -1,8 +1,7 @@
 # RFC Protokoll - Beweiss- und Lügenmatrix
 **die RFC Protokolle belegen das was niemand in Worte fassen kann, wass allgegenwertig ist und was das grösste Verbrechen ist, was die Erde mehrfach erlebte und was willkürlich von Menschen aufrechterhalten und als Genozid bezeichnet wird.** 
-Harvard University USA
 
-### The University Harvard published the first RFC Protokoll
+### The University Harvard published the first Original RFC Protokoll
 `Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original.` [So auch das erste RFC2026 von der US Harvard University](https://www.harvard.edu)
 
 ***Diese Release dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten*** unterandrerm von der Network Working Group, `Leitender Forscher Herr S. Bradner von der US Harvard University`. **Sowie das bis heute (Stand 09.März 2026) zerstörende Denken, einer menschenverachtenden Minderheit.**
