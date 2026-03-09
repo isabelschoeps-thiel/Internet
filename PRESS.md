@@ -32,10 +32,11 @@ Man should abolish, destroy himself by his stupidity. Should it come to a digita
 
 3. Attention for all international global Gouvements, Instituts, Universitys, Companies, NGO's, Schools, non commercial Users.
 
-read the Global lizense as MD and PDF 
+read the Global lizense as .md, txt and PDF 
 The Global Softwarwe License and the Governance Controll, Rules for applied technology in the software Regulates the commercial global handling of the software and the resulting technologies. 
 - Global_Internet_Software_License.pdf
-- Governance_Control_Regelwerk_Technologie_Software.md
+- Code_of_Conduct.pdf
+- Code_of_Conduct.md with Governance_Control_Regelwerk_Technologie_Software.md
 
 4. Es ist gestattet
 - Research Citation and referencing in scientific or Media journalistic work
@@ -44,9 +45,7 @@ The Global Softwarwe License and the Governance Controll, Rules for applied tech
 - Linking and referencing to the original source
 - Verbatim quotation within legal citation limits
 
-Any use of the Work must include clear and visible attribution:
-
-Author: Isabel Schöps, geborene Thiel
+Any use of the Work must include clear and visible attribution, Author Ms. Isabel Schöps, geborene Thiel
 
 Attribution must not be removed, altered, or obscured.
 
