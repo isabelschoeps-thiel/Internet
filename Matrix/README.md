@@ -1,4 +1,6 @@
-# Eviden Matrix - Chain of Custody
+**Chain of Custody**
+# Eviden (Lie)Matrix - 
+
 ## Die Natur, die Tiere, der Mensch, die Forschung und Wissenschaft, die Religion und der Glaube - gefangen im Netz der der allgegenwertigen Lügenmatrix 
 
 **Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026,Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. https://doi.org/10.5281/zenodo.18500830
