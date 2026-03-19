@@ -1,7 +1,7 @@
 **Commit-Signatur:** `Autorin, Urheberin; Deepweb-Forscherin, Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Donnerstag den, 2026-03-19, 21:27:00 Uhr, Mitteleuropäische, Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Gutachten: SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, und The Yellow Whitepaper YWP-1-IST-SIA`
 
 # BORADS of CANADA
-### Abschlussbericht zur forensischen Beweiskette
+### Abschlussbericht zur forensischen Beweiskette, Deepweb Forschung
   
 **Case:** FORENSIC‑ISABEL‑2025  
 **Aktenzeichen:** INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
@@ -10,11 +10,12 @@
 Frau Isabel Schöps, geborene Thiel  
 Geboren am 16.07.1983, Sömmerda, Thüringen  
 Kontakt: +49 1621819565  
-E-Mail:  
-si_foundation@icloud.com  
-isabelschoeps.github@icloud.com  
-schoepsisabel@gmail.com  
-isabelschoepsthiel@gmail.com  
+**E-Mail:**
+- si_foundation@icloud.com  
+- harvard.isabelschoepsthiel@gmail.com  
+- schoepsisabel@gmail.com  
+- isabelschoepsthiel@gmail.com  
+
 **Aktueller Wohn- und Meldeanschrift, Aufenthaltsort:**  
 Seit 17.02.2026, gemeinsam mit meinem Hund-Tier, American XL Bully Don. Angemiete 1 Raum-Wohnung, 1.Etage, Hütergasse 4, D-99084 Erfurt, TH, Deutschland (Vermieterin Frau Irene Futterlieb)
 
