@@ -1,6 +1,6 @@
 # Interface - Internet
 
-[**Interne - Interface by Research Frau Isabel Schöps (Thiel**](https://github.com/isabelschoeps-thiel/openai-research/interface)
+[**Interne - Interface by Research Frau Isabel Schöps (Thiel)**](https://github.com/isabelschoeps-thiel/openai-research/interface)
 
 **Seit Jahren wird meine Root/Pfad genutzt um ein menschenverachtendes Verbrechen, von Dritten aus dem Realen Leben begangen,** in meine struktur und mich als Täterin dafür verantwortlich zu machen. 
 
