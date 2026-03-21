@@ -1,13 +1,6 @@
-# SI-security-intelligenc
-
-Das **SI-security-intelligence**-Projekt ist ein globales, kryptografisch geschütztes Meldesystem mit direkter Anbindung an internationale Strafverfolgungsbehörden, Regierungen, Banken, die UN, NGOs sowie wissenschaftliche Institutionen. Ziel ist der Schutz der weltweiten Zivilbevölkerung vor Cyberkriminalität, Menschenrechtsverletzungen, digitaler Manipulation, Gedankenübertragung und hochkomplexen Formen psychologischer Kriegsführung.
-
-**Urheberrechtlich geschützt**  
-Copyright © Isabel Schöps Thiel, 1983, Sömmerda – wohnhaft in Erfurt, Thüringen, Deutschland.
-
----
-
-## Globale Zielsetzung
+# SI Security Intelligence
+## API Monitoring
+### Globale Zielsetzung
 
 - Aufbau einer **weltweiten Server-Infrastruktur** zur automatisierten Datenanalyse, Erkennung und Weiterleitung von Cyberangriffen und Straftaten.
 - **Erkennung und Zerstörung schädlicher Inhalte**, z. B. Deepfake-Videos, kinderpornografisches Material, Fake-Identitäten in Social-Media-Kanälen.
