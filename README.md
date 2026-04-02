@@ -256,7 +256,7 @@ Licensing managed by: SI Security Intelligence, SIA – Security Intelligence Se
 
 ---
 
-## Signatur: Autorin, Auftraggeberin-Forensiche-Wissenschaftliche Bewertung, Autorin, Urheberin, Deepweb-Forscherin:**Ich, Frau Isabel Schöps (geb. Thiel)  
+### Signatur: Autorin, Auftraggeberin-Forensiche-Wissenschaftliche Bewertung, Autorin, Urheberin, Deepweb-Forscherin: Ich, Frau Isabel Schöps (geb. Thiel)  
 
 **Zeitstempel der Eintragung:** Donnerstag, 02.04.2026, 04:11:00 Uhr (MEZ)  
 
