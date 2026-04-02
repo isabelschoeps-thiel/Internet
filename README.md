@@ -67,18 +67,18 @@ EMail: help@harvard.edu
 
 Dieses forensisch-wissenschaftliche Gutachten dient der gerichtsfesten, technischen und geistigen Dokumentation der Leistungen von Frau Isabel Schöps, geborene Thiel, in Bezug auf wesentliche Kerntechnologien im Bereich der digitalen Automation, Blockchain-Architektur, Open-Source-Entwicklung und künstlichen Intelligenz.
 
-Es wurde von mir eine Umfangreiche Quell-, Beweis- und Rohdatenbank, Protokolle und Datein in Form von; PDFs, HTML, MD, C-/H-Files, JSON, YAML, CSV, RTF, TXT, SH, JS, PHP, PY, uiid.txt , pem, xml, js, aREADME.md, Images, Screeshots, Presseberichte, Whitepaper aus den Bereichen
-	•	Selbstheilung-Prozess, erste BOOT-Vorgang
-	•	Ursprung KI DAEMON Automation, seit 14.04.1996
-	•	KI-Technologieentwicklungen 
-	•	die erste HASH Codierung
-	•	Bitcoin, Ethereum Blockchain
-	•	Urheberrechtliche forensische Signaturen
-	•	Sicherheitsarchitekturen
-	•	Quellcodedateien und Frameworks
-	•	Webseiten-HTML-Dokumente
-	•	Forensische Stellungnahmen und Beweisführung
-	•	Skript  bzw. Computersprachen wie; postgres95,  und Befehlzeichen, wie bin/bash, curl, python, po
+Es wurde von mir eine Umfangreiche Quell-, Beweis- und Rohdatenbank, Protokolle und Datein in Form von; PDFs, HTML, MD, C-/H-Files, JSON, YAML, CSV, RTF, TXT, SH, JS, PHP, PY, uiid.txt , pem, xml, js, aREADME.md, Images, Screeshots, Presseberichte, Whitepaper aus den Bereichen:
+- Selbstheilung-Prozess, erste BOOT-Vorgang
+- Ursprung KI DAEMON Automation, seit 15.04.1996
+- KI-Technologieentwicklungen
+- die erste HASH Codierung
+- Bitcoin, Ethereum Blockchain
+- Urheberrechtliche forensische Signature
+- Sicherheitsarchitekturen
+- Quellcodedateien und Framework
+- Webseiten-HTML-Dokumente
+- Forensische Stellungnahmen und Beweisführung
+- Skript, Computersprachen wie; postgres95,  und Befehlzeichen, wie bin/bash, curl, python, po
 
 für das Gutachten hochgeladen, rechtskonform gesichert und für die Wissenschaftliche-Auswertung zur Verfügung gestellt. 
 
@@ -107,9 +107,9 @@ Zur technologischen Einordnung dient unter anderem der peer-reviewte Artikel Ope
 
 Diese Quelle dient ausschließlich der wissenschaftlichen Kontextualisierung, nicht der Ableitung.
 
-⸻
+---
 
-### VORWORT der Urheberin Frau Isabel Schöps geb. Thiel 
+### Vorwort, der Urheberin Frau Isabel Schöps geb. Thiel 
 
 Dieses wissenschaftliche forensische Gutachten mit den AZ: int-code-2025-btc/eth-core-isabelschoepsthiel dokumentiert in den kommenden Seiten meine Urheberschaft im vollen Umfang und ist den Bereichen moderner Computer Technologie; wie KI Automation, OpenSource, Bitcoin Core, GitHub und Pornhub, rechtssicher nachgewiesen. Die Beweislage ist vollständig, abschließend und unanfechtbar. 
 
@@ -119,7 +119,6 @@ Ich habe im April 2025  begonnen, die wichtigsten Quelldaten, Protokolle, Berich
 Vorangegangen ist eine 3 jährige Aufarbeitung von meiner Kindheit und Recherchearbeit meiner Jeder Schritt, den ich unternommen habe, wurde sorgfältig dokumentiert und digital-forensisch analysiert, um sicherzustellen, dass ich die Wahrheit spreche und nur ich, Isabel Schöps geborene Thiel, mit meiner vollen mentalen Stärke dies wieder verkörpern kann. Dies wurde auch im forensischen Gutachten ausführlich bestätigt. Die sensible Software- und Computerwelt ist bis heute eine Struktur-Branche und zugleich hochgefährliche, unsichtbare Waffe, die bis heute unter Kontrolle falscher Urheber ist und mit der wir bewusst tagtäglich manipuliert werden und die einen Schaden an dem menschlichen Organismus sowie in der Natur und bei Tieren verursacht, der zu diesem Zeitpunkt irreparabel ist.
 
 Die Wissenschaft sowie Künstliche Intelligenz erkennt mich Frau Isabel Schöps, geborene Thiel am 16.07.1983 in Sömmerda als Schöpferin der genannten Innovationen, Entwicklungen und Technologien an. Dies ist durch eine Vielzahl an digitalen, rechtlichen und technischen Beweismitteln von über 30.000 Rohdaten mit Quellcode, Signaturen, ZIPs, Screenshots, Zertifikaten belegt. Aufgrund der noch anhaltenden Manipulation, der missbrauch und die unrechtmäßige Nutzung meiner Konten, meiner Arbeiten, meiner Quelltexte, meiner Apple-ID, meines GitHub Accounts und modifizierten Deepfake Facebooks Accounts, werden nur Auszüge und keine vollen Quelltexte veröffentlicht, da diese durch AI Tools, Meta-Filter und gezielte Flags, diese in ihrem Ursprung zerstört werden können und durch Dritte, wie bereits seit 1999 missbraucht und meine digitale Identität, Urheberschaft in der Öffentlichkeit zerstört wird und umgeschrieben werden könnte. 
-
 
 Untermauert wird dieses Gutachten, durch Rechtsverweise der US University Harvard, UK University Oxford und der International Telecommunication Union (ITU) Schweiz, Genf. Zuvor wurde auf APA-Verweise verlinkt und ausgewertet, da APA (American Psychological Association), hauptsächlich die Bereiche Psychologie, Sozialwissenschaften, abdeckt, wurde vollständig auf Harvard-Referenzierung umgestellt. Da hier Software Urheberrecht, Kryptografie und digitale Beweisführung. Zudem habe ich ein Agreetment mit der University Oxford UK, Oktober 2025 abschließen können, hier geht es um den nachstehenden lizenzierten Inhalt: Reproduktion der vollständigen Fachpublikation Open Source Clustering Software von de Hoon, M.J.L. aus Bioinformatics, Vol. 20, Issue 9, 2.2004 mit der Lizenznummer: 6131130060979 Lizenzgeber: Oxford University UK Lizenzdatum: 16. Oktober 2025 Verwendet in: SIA Security Intelligence Artefact, veröffentlicht im Springer Verlag, 2025.
 
@@ -219,14 +218,6 @@ Da das Verhältnis zu meiner Familie, meiner Tochter und Freunden massiv gestör
 
 Alles, was Sie bisher über die Computer und Finanzwelt zu wissen glaubten, beruht auf Halbwahrheiten und verschleiert eines der größten Verbrechen der Menschheit. Isabel Schöps befindet sich 
 
-
-
-
-
-
-
-
-
 DEUTSCH – Copyright- und Lizenzvermerk
 © Isabel Schöps, geborene Thiel – Alle Rechte vorbehalten. Dieses Werk ist urheberrechtlich geschützt. Es handelt sich um eine reine Leselizenz („Read-Only Use“).
 
@@ -261,4 +252,36 @@ All violations are automatically logged, securely archived and will be reported 
 For official license requests, contact:
 Isabel Schöps (née Thiel)
 E-mail: github@isabelschoeps.com
-Licensing managed by: SI Security Intelligence / CISA – Cyber Intelligent Security Artefact
+Licensing managed by: SI Security Intelligence, SIA – Security Intelligence Security Artefact
+
+---
+
+## Signatur, Autorin, Deepweb-Forscherin
+
+**Auftraggeberin, Autorin, Urheberin, Deepweb-Forscherin:**
+Ich, Frau Isabel Schöps (geb. Thiel)  
+
+**Zeitstempel der Eintragung:** Donnerstag, 02.04.2026, 04:11:00 Uhr (MEZ)  
+
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
